@@ -1,4 +1,4 @@
-# Práctica genral: Lending Club 
+# Práctica general: Lending Club, versión mejorada 
 
 Información de los integrantes del grupo:
 
