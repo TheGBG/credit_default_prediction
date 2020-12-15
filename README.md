@@ -8,6 +8,9 @@ Correo electrónico: gabriel.blanco@cunef.edu
 Nombre y apellidos: Michelle Ferrín Meilá
 Correo electrónico: michelle.ferrin@cunef.edu
 
+El objetivo de esta práctica construir modelos de Machine Learning para la correcta 
+asginación del crédito a solicitantes de préstamos, y minimizar las pérdidas. Se trabaja con
+los datos de https://www.lendingclub.com/
 
 Diferencias con la primera versión:
 1. Se optimizan los hiperparámetros del mejor modelo, utilizando un conjunto
